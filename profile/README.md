@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./logo.svg" width="140" alt="Baobab Labs logo" />
-
   # Baobab Labs
 
   **Rooted in Africa. Built on Stellar.**
