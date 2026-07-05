@@ -1,5 +1,5 @@
 <div align="center">
-  # Baobab Labs
+  # Baobab Chain Labs
 
   **Rooted in Africa. Built on Stellar.**
 
